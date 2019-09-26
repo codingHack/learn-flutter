@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/samples/animations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/animations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/chrome-os-best-practices/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/chrome-os-best-practices/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/experimental/add_to_app/flutter_module/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/experimental/add_to_app/flutter_module/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/experimental/add_to_app/flutter_module_using_plugin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/experimental/add_to_app/flutter_module_using_plugin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/flutter_maps_firestore/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/flutter_maps_firestore/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/isolate_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/isolate_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/jsonexample/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/jsonexample/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/material_studies/rally/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/material_studies/rally/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/material_studies/shrine/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/material_studies/shrine/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/place_tracker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/place_tracker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/platform_design/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/platform_design/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/platform_view_swift/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/platform_view_swift/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/provider_counter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/provider_counter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/provider_shopper/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/provider_shopper/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/veggieseasons/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/veggieseasons/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/_tool/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/_tool/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/charts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/charts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/dad_jokes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/dad_jokes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/filipino_cuisine/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/filipino_cuisine/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/gallery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/gallery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/github_dataviz/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/github_dataviz/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/particle_background/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/particle_background/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/slide_puzzle/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/slide_puzzle/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/spinning_square/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/spinning_square/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/timeflow/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/timeflow/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/vision_challenge/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/web/vision_challenge/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
